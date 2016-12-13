@@ -13,3 +13,4 @@ $ npm install --save-dev gulp-imagemin
 Put your images to optimize in the _img folder
 `$ gulp`
 Retrieve your images in the _optiz folder
+
