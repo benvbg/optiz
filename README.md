@@ -10,9 +10,9 @@ $ npm install --save-dev gulp-imagemin
 
 ## Usage
 
-Put your images to optimize in the _img folder
+Put your images to optimize into _img folder
 
 `$ gulp`
 
-Retrieve your images in the _optiz folder
+Retrieve your images into _optiz folder
 
